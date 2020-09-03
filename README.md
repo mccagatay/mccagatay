@@ -1,4 +1,4 @@
-<h3 align="center">Computer Engineering Student</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mccagatay" alt="mccagatay" /> </p>
 
