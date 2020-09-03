@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mccagatay" alt="mccagatay" /> </p>
 
-- 🌱 I’m currently learning **Flutter,Machine Learning,Computer Vision**
+- 🌱 I’m currently learning **Flutter, Machine Learning, Computer Vision**
 
 - 📫 How to reach me **muhammet.cagatay.mc@gmail.com**
 
